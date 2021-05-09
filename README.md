@@ -1,4 +1,4 @@
-# Truebit OS Scripts Test
+# Truebit OS Scripts
 
 ## Helpful scripts to work with Truebit OS
 
@@ -39,4 +39,9 @@ View current gas
 Run Truebit OS
 ```
 ./truebit-os.sh
+
+```
+Get information on block bonus
+```
+./bonus.sh
 ```
