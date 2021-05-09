@@ -41,7 +41,3 @@ Run Truebit OS
 ./truebit-os.sh
 
 ```
-Get information on block bonus
-```
-./bonus.sh
-```
